@@ -1,4 +1,4 @@
-# Developer Form Landing Page
+# Developers Form Landing Page
 
 This project is a landing page for **Developers Form**, a platform designed to empower tech enthusiasts, aspiring developers, and designers to unlock their full potential in the tech industry.
 
